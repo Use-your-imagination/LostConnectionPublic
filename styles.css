@@ -7,7 +7,7 @@ td {
 }
 
 .patch-notes {
-    background-image: url(https://github.com/Use-your-imagination/LostConnection/blob/661337e93c036cc6b88a4540af97f1b94d47ce72/Content/Assets/PatchNotesBackgroundImage/PatchNotesBackgroundImage.png?raw=true);
+    background-image: url(images/PatchNotesBackgroundImage.png);
     background-size: 100%;
 	background-attachment: fixed;
 }
